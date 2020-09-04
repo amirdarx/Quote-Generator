@@ -131,4 +131,8 @@ button:active{
 	.myname{
 		display: none;
 	}
+
+	.myname:hover{
+		display: none;
+	}
 }
